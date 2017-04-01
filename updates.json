@@ -5,6 +5,10 @@
         {
           "version": "1.1",
           "update_link": "https://github.com/Kenjugs/Fakku-Dark/releases/download/v1.1/fakku_after_dark-1.1-an.fx.xpi",
+        },
+        {
+          "version": "1.2",
+          "update_link": "https://github.com/Kenjugs/Fakku-Dark/releases/download/v1.2/fakku_after_dark-1.2-an.fx.xpi"
         }
       ]
     }

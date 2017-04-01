@@ -27,7 +27,7 @@ a:active {
 }
 a {
 	background-color:transparent;
-	color:#77a;
+	color:#88c;
 	font:inherit;
 	text-decoration:none;
 }
@@ -1691,7 +1691,7 @@ h3 {
 	padding:0.625rem;
 }
 .content.view .comment-row .post-message[contenteditable="true"] {
-	border:2px dotted #77a;
+	border:2px dotted #88c;
 }
 .comment-edit-time {
 	color:#ddd;
