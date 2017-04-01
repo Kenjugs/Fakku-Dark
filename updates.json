@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{72eb2f44-69a0-4c8a-b271-be433258eade}": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://github.com/Kenjugs/Fakku-Dark/releases/download/v1.0/fakku_after_dark-1.0-an.fx.xpi",
+        }
+      ]
+    }
+  }
+}
