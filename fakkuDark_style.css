@@ -2493,6 +2493,7 @@ h3 {
 	width:100%;
 	border:1px solid #999;
 	border-radius:0.5rem;
+	max-height: 345px;
 }
 .film-strip .strip {
 	display:inline-block;
