@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Fakku After Dark",
+  "version": "1.0",
+  "description": "Replaces the default theme on Fakku with a dark theme",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://*.fakku.net/*"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "web_accessible_resources": [
+    "fakkuDark_style.css",
+    "fakkuDark_reader.min.css"
+  ]
+}
